@@ -20,6 +20,3 @@ To be updated
 
 ## Contributing
 My projects will always be open-sourced, feel free to contribute and give feedback on improving the software
-
-## Credits
-- Pang Jing Jie
