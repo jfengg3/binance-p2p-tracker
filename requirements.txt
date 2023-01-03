@@ -1,0 +1,2 @@
+pyppeteer~=1.0.2
+forex-python~=1.8
